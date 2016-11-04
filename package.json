@@ -38,6 +38,7 @@
     "md5": "latest",
     "morgan": "1.5.3",
     "mongoose": "^4.3.6",
+    "object-assign": "^4.1.0",
     "q": "^1.0.1",
     "querystring": "latest",
     "request": "^2.47.0",
